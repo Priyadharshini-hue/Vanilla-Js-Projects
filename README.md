@@ -1,1 +1,1 @@
-# Projects-with-vanilla-JS
+# Projects-done-with-vanilla-JS
