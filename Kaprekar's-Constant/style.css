@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}	
+h2{
+	text-align: center;
+}
+#container{
+    margin-top: 80px;
+}
+#div1{
+  	text-align: center;
+}
+#result{
+	text-align: center;
+	margin-top: 25px;
+}
+#error{
+	margin-top: 10px;
+}
+#input{
+	padding: 10px;
+	border-radius: 5px;
+	border: 1px solid black;
+}
+#check{
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 5px;
+	margin-left: 5px;
+}
