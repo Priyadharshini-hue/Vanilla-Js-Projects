@@ -13,11 +13,21 @@
 }
 .btn{
     background-color: rgb(139, 143, 145);
-    padding: 10px;
+    padding: 10px 10px 10px 10px;
     border:2px solid rgb(131, 124, 124);
     border-radius: 5px;
     font-size: 16px;
     color: #fff;
+    margin-right: 7px;
+}
+#prev,#next{
+    background-color: rgb(139, 143, 145);
+    padding: 10px 10px 10px 10px;
+    border:2px solid rgb(131, 124, 124);
+    border-radius: 5px;
+    font-size: 16px;
+    color: #fff;
+    margin-right: 7px;
 }
 table {
     border-collapse: collapse;
