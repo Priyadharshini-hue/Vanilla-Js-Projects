@@ -1,7 +1,8 @@
-##To see how it works 
+##To see how it works <br>
 [CLICK ME!!!!](https://formvalidator7js.netlify.app/)
 
 
-![scrnli_25_08_2020_22-13-55](https://user-images.githubusercontent.com/61590245/91203064-4cb32500-e720-11ea-9ae8-2d80060dbeee.png)
+![scrnli_25_08_2020_22-18-57](https://user-images.githubusercontent.com/61590245/91203905-0ad6ae80-e721-11ea-8bf1-85d9b31afec2.png)
+
 
 
