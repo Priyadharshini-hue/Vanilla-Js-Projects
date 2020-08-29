@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #181818;
+  color:white;
+}
+#container {
+  display: flex;
+  flex-direction: row;
+}
+
+#left {
+  margin: 2rem 5rem 0 1rem;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(4, 2fr);
+  grid-template-rows: repeat(4, 2fr);
+  grid-row-gap: 20px;
+}
+
+#right {
+    width: 100%;
+    margin-top: 5rem;
+  }
+
+img {
+  height: 100px;
+  width: 150px;
+}
