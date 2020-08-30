@@ -23,7 +23,7 @@ fetch("https://restcountries.eu/rest/v2/all")
         right.appendChild(img);
 
         var info = document.createElement("div");
-        info.setAttribute('style',"margin-top:1rem")
+        info.setAttribute("style", "margin-top:1rem");
         info.innerHTML =
           "<p>Country Name: " +
           c.name +
