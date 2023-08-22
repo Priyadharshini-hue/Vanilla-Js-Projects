@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Calculator</title>
+    <link rel="stylesheet" href="style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+  </head>
+
+  <body>
+    <input type="checkbox" id="check" />
+    <label for="check">
+      <i class="fas fa-bars" id="btn"></i>
+      <i class="fas fa-times" id="cancel"></i>
+    </label>
+    <div class="sidebar">
+      <header>Calculator</header>
+      <a href="index.html" class="active">
+        <i class="fa fa-calculator" aria-hidden="true"></i>
+        <span>Standard</span>
+      </a>
+      <a href="scientific.html">
+        <i class="fa fa-yelp" aria-hidden="true"></i>
+        <span>Scientific</span>
+      </a>
+    </div>
+    <div id="cal">
+      <form name="myform" id="form"></form>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
